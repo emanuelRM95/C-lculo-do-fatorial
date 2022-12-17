@@ -5,4 +5,5 @@ def numero():
         fatorial *= numero
         numero -= 1
     return fatorial
+
 print(numero())
